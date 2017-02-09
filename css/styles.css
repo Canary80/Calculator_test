@@ -10,6 +10,9 @@
   background: red;
 }
 
+.buttons#clear {
+  background: #5500FF}
+
 .buttons:onclick {
   background: yellow;
 }
